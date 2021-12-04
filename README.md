@@ -7,7 +7,7 @@
 - 📫 How to reach me: ndrcera@gmail.com [LinkedIn](https://www.linkedin.com/in/andrea-cera-backend/)  
   
 
-- ⚡ Fun fact: I am perpetually with headphones  
+- :alembic: Fun fact: I am an excellent meme creator 
   
 
 <br/>  
