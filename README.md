@@ -2,9 +2,8 @@
   
 
 - 🔭 I’m currently working on this: [Github Repository](https://github.com/Arial-js/Calendar-.NET)  
+- 
   
-- :new: I wanna learn DevOps :whale:
-
 - 📫 How to reach me: ndrcera@gmail.com [LinkedIn](https://www.linkedin.com/in/andrea-cera-backend/)  
   
 
