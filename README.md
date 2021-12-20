@@ -2,11 +2,9 @@
   
 
 - 🔭 I’m currently working on this: [Github Repository](https://github.com/Arial-js/Calendar-.NET)  
-- 
   
 - 📫 How to reach me: ndrcera@gmail.com [LinkedIn](https://www.linkedin.com/in/andrea-cera-backend/)  
   
-
 - :alembic: Fun fact: I am an excellent meme creator 
   
 
