@@ -1,7 +1,7 @@
 ### <div align="center">I'm Andrea Cera, a Full-Stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working on this: [Github Repository](https://github.com/Arial-js/.NET_Core_API)  
+- 🔭 I’m currently working in MSC  
   
 - 📫 How to reach me: ndrcera@gmail.com [LinkedIn](https://www.linkedin.com/in/andrea-cera-backend/)  
   
