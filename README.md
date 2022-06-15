@@ -1,7 +1,7 @@
 ### <div align="center">I'm Andrea Cera, a Full-Stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working in MSC  
+- 🔭 I’m currently working as .NET Developer at MSC  
   
 - 📫 How to reach me: ndrcera@gmail.com [LinkedIn](https://www.linkedin.com/in/andrea-cera-backend/)  
   
