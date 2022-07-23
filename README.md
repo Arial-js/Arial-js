@@ -54,7 +54,9 @@
 
 </td><td valign="top" width="33%">
 
-
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/azure-original-wordmark.svg" alt="Node.js" height="50" />
+</div>
 
 </td></tr></table>  
 
