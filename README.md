@@ -54,10 +54,6 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/azure-original.svg" alt="microsoft-azure" height="50" />
-</div>
-
 </td></tr></table>  
 
 <br/>  
